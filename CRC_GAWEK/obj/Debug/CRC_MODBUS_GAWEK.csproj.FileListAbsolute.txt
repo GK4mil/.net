@@ -1,0 +1,15 @@
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\bin\Debug\CRC_GAWEK.exe.config
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\bin\Debug\CRC_GAWEK.exe
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\bin\Debug\CRC_GAWEK.pdb
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_MODBUS_GAWEK.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\App.g.cs
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_GAWEK_MarkupCompile.cache
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_GAWEK_MarkupCompile.lref
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\MainWindow.baml
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_GAWEK.g.resources
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_GAWEK.Properties.Resources.resources
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_MODBUS_GAWEK.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_MODBUS_GAWEK.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_GAWEK.exe
+C:\Users\Kamil\source\repos\CRC_MODBUS_GAWEK\CRC_GAWEK\obj\Debug\CRC_GAWEK.pdb

@@ -1,0 +1,127 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Strona główna</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <script type="text/javascript">
+
+        var numer = Math.floor(Math.random() * 4)+1 ;
+
+        var timer1 = 0;
+        var timer2 = 0;
+        var tab = ['https://seeklogo.com/images/R/renault-logo-18DB8E9AE7-seeklogo.com.png',
+            'https://cdn.pixabay.com/photo/2016/08/15/18/18/bmw-1596080_960_720.png',
+            'https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/30290605d9d37aeddb327f3bf2fcadf8/large.jpg',
+            'https://apollo-ireland.akamaized.net/v1/files/eyJmbiI6InRlZWpoODh5NWFpNTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.AvzuFFKhysV1yRNJ3tSn8SIGcB7-qRA-YXvxf05VWnA/image;s=1080x720;cars_;/920651916_;slot=2;filename=eyJmbiI6InRlZWpoODh5NWFpNTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.AvzuFFKhysV1yRNJ3tSn8SIGcB7-qRA-YXvxf05VWnA_rev001.jpg',
+            'https://logonoid.com/images/seat-logo.jpg',
+        'https://i0.wp.com/car-logos.net/wp-content/uploads/2018/09/audi-logo.jpg?fit=500%2C360&ssl=1'];
+
+        function ustawslajd(nrslajdu) {
+            clearTimeout(timer1);
+            clearTimeout(timer2);
+            numer = nrslajdu - 1;
+
+            schowaj();
+            setTimeout("zmienslajd()", 500);
+
+        }
+
+        function schowaj() {
+            $("#slider").fadeOut(500);
+        }
+
+        function zmienslajd() {
+            numer++; if (numer > 4) numer = 0;
+
+            var plik = "<img src=\"" + tab[numer] + "\" />";
+
+            document.getElementById("slider").innerHTML = plik;
+            $("#slider").fadeIn(500);
+
+            timer1 = setTimeout("zmienslajd()", 5000);
+            timer2 = setTimeout("schowaj()", 4500);
+
+        }
+
+    </script>
+    <style>
+        img {
+            
+            margin:30px;
+            width: 300px;
+            height: 300px;
+        }
+        
+    </style>
+</head>
+<body onload="zmienslajd()">
+    <nav class="navbar navbar-dark bg-primary">
+        <a class="navbar-brand" href="~/Main/Index">Katalog samochodów</a>
+        <a class="nav-item nav-link bg-light" href="~/Main/Logowanie">Zaloguj</a>
+    </nav>
+   <center><div id="slider"></div></center> 
+    <div>
+        @Html.ValidationSummary(true, "", new { @class = "text-success" })
+    </div>
+
+    @if (ViewBag.lista != null)
+    {
+        List<projekt1_twai.Models.Car> lista = ViewBag.lista;
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Marka i model</th>
+                    <th>Rok produkcji</th>
+                    <th>Pojemność silnika</th>
+                    <th>Rodzaj paliwa</th>
+                    <th>Kolor karoserii</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (@projekt1_twai.Models.Car a in lista)
+                {
+                    @:<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+                        <td>@a.ID</td>
+                        <td><a href="http://www.google.pl/search?q= @a.Marka @a.Model">@a.Marka @a.Model</a></td>
+                        <td> @a.Rok</td>
+                        <td> @a.Poj</td>
+                        <td> @a.Paliwo</td>
+                        <td> @a.kolor</td>
+                        
+
+                    }
+        </tbody>
+    </table>
+
+
+
+}
+</body>
+</html>

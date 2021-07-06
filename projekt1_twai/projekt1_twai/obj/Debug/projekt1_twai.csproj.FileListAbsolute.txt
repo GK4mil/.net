@@ -1,0 +1,158 @@
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\projekt1_twai.dll.config
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\projekt1_twai.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\projekt1_twai.pdb
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.csproj.CopyComplete
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.dll
+C:\Users\User\Desktop\Studia\sem 6\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.pdb
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\projekt1_twai.dll.config
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\projekt1_twai.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\projekt1_twai.pdb
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\csc.exe
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\csc.exe.config
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\csc.rsp
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\csi.exe
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\csi.exe.config
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\csi.rsp
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.AppContext.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Console.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\vbc.exe
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\vbc.exe.config
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\vbc.rsp
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.csproj.CopyComplete
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.dll
+C:\Users\Kamil\Desktop\do repo na github\do przerobienia\.NET\twai\projekt1_twai\projekt1_twai\obj\Debug\projekt1_twai.pdb

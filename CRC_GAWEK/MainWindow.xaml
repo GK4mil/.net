@@ -1,0 +1,24 @@
+﻿<Window x:Class="CRC_GAWEK.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRC_GAWEK"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="383" Width="800" MinWidth="800" MinHeight="446">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="bytes" Height="89" Margin="28,53,32,0" TextWrapping="Wrap" VerticalAlignment="Top" LostFocus="bytes_LostFocus"/>
+        <Button x:Name="start_button" Content="Start" Margin="0,295,32,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="74" Click="start_button_Click"/>
+        <TextBox x:Name="repeat_count" HorizontalAlignment="Left" Height="22" Margin="28,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Text="1"/>
+        <Label Content="Ilość powtórzeń:" HorizontalAlignment="Left" Margin="28,147,0,0" VerticalAlignment="Top"/>
+        <Label Content="Wartość CRC" HorizontalAlignment="Left" Margin="28,236,0,0" VerticalAlignment="Top"/>
+        <Label Content="Łączny czas powtórzen algorytmu:" HorizontalAlignment="Left" Margin="28,205,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="crc_value" Height="23" Margin="28,267,32,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False"/>
+        <Label x:Name="time" Content="0" HorizontalAlignment="Left" Margin="224,205,0,0" VerticalAlignment="Top" Width="114"/>
+        <Label Content="Sekwencja:" HorizontalAlignment="Left" Margin="28,22,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

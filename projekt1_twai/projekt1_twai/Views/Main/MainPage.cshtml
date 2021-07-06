@@ -1,0 +1,88 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+@model projekt1_twai.Models.Car
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Panel administratora</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <style>
+        .btn a {
+            color: white;
+            text-decoration: none
+        }
+
+        
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-primary">
+        <a class="navbar-brand" href="~/Main/MainPage">Katalog samochodów</a>
+        <a class="nav-item nav-link bg-danger" href="~/lista.txt">Generuj listę w txt</a>
+        <a class="nav-item nav-link bg-danger" href="~/Main/AddAdmin">Dodaj admina</a>
+        <a class="nav-item nav-link bg-danger" href="~/Main/Wyloguj">Wyloguj</a>
+    </nav>
+    <div class="btn btn-success" style="margin:30px">
+        @Html.ActionLink("Dodaj", "Add")
+    </div>
+    
+
+
+
+    @if (ViewBag.lista != null)
+    {
+        List<projekt1_twai.Models.Car> lista = ViewBag.lista;
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Marka i model</th>
+                    <th>Rok produkcji</th>
+                    <th>Pojemność silnika</th>
+                    <th>Rodzaj paliwa</th>
+                    <th>Kolor karoserii</th>
+                    <th>Akcja</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (@projekt1_twai.Models.Car a in lista)
+                {
+                    @:<tr>
+
+
+
+    <td>@a.ID</td>
+    <td>@a.Marka @a.Model</td>
+    <td> @a.Rok</td>
+    <td> @a.Poj</td>
+    <td> @a.Paliwo</td>
+    <td> @a.kolor</td>
+    <td>
+
+        @Html.ActionLink("Edytuj", "Edit", "Main", new { id = a.ID }, null)
+        @Html.ActionLink("Usuń", "Delete", "Main", new { id = a.ID }, null)
+
+
+    </td>
+
+}
+</tbody>
+                </table>
+
+
+
+            }
+        </body>
+</html>
